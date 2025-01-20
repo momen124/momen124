@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Next.js, Node.js, and DevOps**
 - 👯 I’m looking to collaborate on **Open-source full-stack projects**
 - 💬 Ask me about **React, Node.js, GraphQL, and Docker**
-- 📫 How to reach me **momenhosny@example.com**
+- 📫 How to reach me **momenhosnyemam@gmail.com**
 - ⚡ Fun fact **I love solving coding challenges**
 
 ---
