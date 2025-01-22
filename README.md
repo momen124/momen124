@@ -144,4 +144,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=momen124&theme=tokyonight" alt="momen124" /></p>
 
 
-  ![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=momen124&theme=tokyo-night)
