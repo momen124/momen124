@@ -24,8 +24,7 @@
 <a href="https://twitter.com/momenhosny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/momenhosny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /></a>
 <a href="https://github.com/momen124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="20" width="20" /></a>
-<a href="https://www.instagram.com/momenhosny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="20" width="20" /></a>
-<a href="https://www.youtube.com/c/momenhosny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="20" width="20" /></a>
+
 </p>
 
 ---
@@ -137,7 +136,6 @@
 
 ## 📊 GitHub Stats:
 
-[![Momen's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=momen124&theme=tokyo-night)](https://github.com/momen124)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momen124&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="momen124" /></p>
 
